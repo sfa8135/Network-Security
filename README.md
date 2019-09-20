@@ -1,2 +1,2 @@
 # Network-Security
-Projects/ Assignmnets for Netwok Security Lab
+Projects/ Assignments for Network Security Lab
